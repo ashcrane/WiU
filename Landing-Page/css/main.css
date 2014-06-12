@@ -160,7 +160,6 @@ footer{
 	@media only screen and (max-width: 767px) {
 		#wrapper{
 			width: 95%;
-			background-color: #8ECEDE;
 	
 		}
 		.main, header, h2{
